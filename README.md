@@ -13,6 +13,8 @@ This project combines statistical hypothesis testing and machine learning to exp
 
 - Which clinical and operational features most strongly predict wait time
 
+(Racial categories are defined according to NHAMCS survey classifications.)
+
 ## Data Source
 
 Data obtained from:
